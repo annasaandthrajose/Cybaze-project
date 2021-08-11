@@ -1,0 +1,36 @@
+body{
+    border: 2px black;
+}
+
+.row{
+    background-color: lightcoral;
+    color: lightseagreen;
+    margin-top:20px;
+}
+.style{
+    border: black 1px solid;
+    margin-top: 20px;
+    text-align: center;
+    width: 50%;
+    margin-left:25%;
+}
+label{
+    color: maroon;
+    
+}
+#acno{
+    margin-left: 20%;
+    margin-top: 2%;
+    width: 50%;
+}
+#pwd{
+    margin-left: 19%;
+    width: 50%;
+}
+button{
+    background-color: palegreen;
+}
+h2{
+    font-style: oblique;
+    font-size: large;
+}
